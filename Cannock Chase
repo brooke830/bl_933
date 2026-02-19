@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cannock Chase Dreamscape</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <div id="world">
+
+    <h1 class="title">Cannock Chase</h1>
+
+    <div class="car">
+      <p>Sitting in the <span class="highlight">back seat</span> of my car...</p>
+    </div>
+
+    <div class="rain">
+      <p>And the rain falls from the roof of the world.</p>
+    </div>
+
+    <div class="tree">
+      <p>There's a bird in a tree singing a song just for me.</p>
+    </div>
+
+    <div class="blues">
+      <p>The blues is always the same.</p>
+    </div>
+
+    <div class="secret">
+      <p>🌧 You found the hidden corner.</p>
+    </div>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Forest_path.jpg" 
+         alt="Forest path" 
+         class="forest-image">
+
+  </div>
+
+</body>
+</html>
